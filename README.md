@@ -1,4 +1,4 @@
-# Original Prusa MINI / MINI+
+# VERTEX MINI / MINI+
 
 
 The VERTEX MINI MINI / MINI+ is a 3D printer project based on PRUSA RESEARCH and maintained by VERTEX3D.ORG Originates in the RepRap project.
